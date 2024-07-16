@@ -1,4 +1,4 @@
-# US-Stock-Market-Prediction-using-LSTM
+# LetsPredict - The Stock Market Predictor 
 Here LSTM is used to predict US stocks. 
 Achieved high accuracy with RMSE of 5.963, MAE of 4.774, and R2 score of 0.936 on test set.
 Yahoo Finance API has been used to fetch data. 
